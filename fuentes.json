@@ -1,0 +1,11 @@
+JSON
+[
+  {
+    "title": "Juego Ejemplo",
+    "fileSize": "10 GB",
+    "uploadDate": "2026-09-13T00:00:00.000Z",
+    "uris": [
+      "magnet:?xt=urn:btih:AQUI_TU_ENLACE_MAGNET"
+    ]
+  }
+]
